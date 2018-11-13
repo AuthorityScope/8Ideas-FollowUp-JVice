@@ -15,7 +15,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 45,
+    "uniqCompNum": 47,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -419,13 +419,13 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgColor": "#222222",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -728,7 +728,7 @@
             "inverse": true,
             "imageSize": "10",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -747,7 +747,7 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/image004-105x130.jpg",
+              "src": "@PROJECT_PATH@/assets/images/jvice-1200x1800.jpg",
               "link": "tel:+1-214-8038950 ",
               "alt": "",
               "title": "",
@@ -763,7 +763,7 @@
           },
           "title": "We are grateful for the opportunity you provided us!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>We promised you that you would walk away with even more value. Scroll down and click or tap to access your additional content. If you feel you would like more information on what else we can do to help grow your business please contact me today!</p><p>Sincerely,&nbsp;</p><p>Jade Vice, Escrow Officer</p>",
+          "text": "<p>We promised you that you would walk away with even more value. Scroll down and click or tap to access your additional content. If you feel you would like more information on what else we can do to help grow your business please contact me today!</p><p>Sincerely,&nbsp;</p><p><b>Jade Vice</b>, <i>Escrow Officer</i></p><p>Email: <a href=\"mailto:jvice@ctot.com\">jvice@ctot.com</a>&nbsp;</p><p>Office: <a href=\"tel:+1-469-8149109\">(469) 814-9109</a>&nbsp;</p><p>Mobile: <a href=\"tel:+1-214-8038950\">(214) 803-8950</a></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://ctot.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More About Capital Title</a>",
           "_tags": [
             "Theme"
@@ -1019,44 +1019,6 @@
           ],
           "_name": "msg-box3",
           "_anchor": "msg-box3-15"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#222222",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Capital Title\n808 South Ballard Avenue, Suite 100 Wylie, TX 75098 ",
-              "placeId": "ChIJE6Jhi4YETIYR4dvlq04ztXU",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<b>ADDRESS</b><br><br>Capital Title<br>808 S Ballard Ave, #100<br>Wylie, TX 75098<br><br><b>\nCONTACT</b><br><br>Jade Vice, Escrow Officer<br>Email:<a href=\"mailto:jvice@ctot.com\" class=\"text-white\"> jvice@ctot.com&nbsp;</a><br>\nOffice: (469) 814-9109 <br>\nMobile:&nbsp;(214) 803-8950 ",
-          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-18",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "16px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          }
         }
       ]
     }
