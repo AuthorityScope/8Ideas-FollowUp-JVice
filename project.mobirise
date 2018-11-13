@@ -728,7 +728,7 @@
             "inverse": true,
             "imageSize": "10",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -882,7 +882,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "32",
+            "imageSize": "28",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1010,7 +1010,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Get Your <i>EXCLUSIVE</i> Access to<br><a href=\"http://getcapapp.com/\" target=\"_blank\">CapApp ONE</a><br>",
+          "title": "Get Your <i>EXCLUSIVE</i> Access to<br><a href=\"http://getcapapp.com/\" target=\"_blank\" class=\"text-black\">CapApp ONE</a><br>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><b><i>CapApp ONE is now available on of your mobile devices.&nbsp;</i></b></p><p>&nbsp;Stay tuned for classes and insights to the best practices on how to best utilize this amazing app for the greatest impact on your business along with continuous training and accountability.&nbsp;</p><p>It's the ONE app that will take your business to the next level!</p><p><b><i>Download it today. <a href=\"http://getcapapp.com/\" target=\"_blank\">Click here</a></i></b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
@@ -1039,7 +1039,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<b>ADDRESS</b><br><br>Capital Title<br>808 S Ballard Ave, #100<br>Wylie, TX 75098<br><br><b>\nCONTACT</b><br><br>Jade Vice, Escrow Officer<br>Email:<a href=\"mailto:jvice@ctot.com\"> jvice@ctot.com&nbsp;</a><br>\nOffice: (469) 814-9109 <br>\nMobile:&nbsp;(214) 803-8950 ",
+          "text1": "<b>ADDRESS</b><br><br>Capital Title<br>808 S Ballard Ave, #100<br>Wylie, TX 75098<br><br><b>\nCONTACT</b><br><br>Jade Vice, Escrow Officer<br>Email:<a href=\"mailto:jvice@ctot.com\" class=\"text-white\"> jvice@ctot.com&nbsp;</a><br>\nOffice: (469) 814-9109 <br>\nMobile:&nbsp;(214) 803-8950 ",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
