@@ -727,8 +727,8 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": "10",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1039,7 +1039,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<b>ADDRESS</b><br><br>Capital Title<br>808 S Ballard Ave, #100<br>Wylie, TX 75098<br><br><b>\nCONTACT</b><br><br>Jade Vice, Escrow Officer<br>Email: jvice@ctot.com&nbsp;<br>\nOffice: (469) 814-9109 <br>\nMobile:&nbsp;(214) 803-8950 ",
+          "text1": "<b>ADDRESS</b><br><br>Capital Title<br>808 S Ballard Ave, #100<br>Wylie, TX 75098<br><br><b>\nCONTACT</b><br><br>Jade Vice, Escrow Officer<br>Email: <a href=\"mailto:jvice@ctot.com\">jvice@ctot</a>.com&nbsp;<br>\nOffice: (469) 814-9109 <br>\nMobile:&nbsp;(214) 803-8950 ",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
